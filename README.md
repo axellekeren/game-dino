@@ -3,4 +3,4 @@
 cuma bisa di laptop 
 ## Go to Home Page
 
-[Click here to go to the Home Page](beritasains.html)
+[Click here to go to the Home Page](Index.html)
