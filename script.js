@@ -6,7 +6,7 @@ let dinoImg = new Image();
 dinoImg.src = 'png-transparent-dinosaur-drawing-color-dinosaur-child-color-infant.png';
 
 let cactusImg = new Image();
-cactusImg.src = 'file:///C:/Users/MDComputer/Pictures/pngtree-cartoon-cactus-png-image_6095736.jpg';
+cactusImg.src = 'pngtree-cartoon-cactus-png-image_6095736.jpg';
 
 let imagesLoaded = 0;
 let totalImages = 2;
